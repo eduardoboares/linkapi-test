@@ -1,39 +1,40 @@
-<h1 align="center">
-  <img height="80" align="center" alt="logo" src="src\assets\logo.svg"><br><br>
-
-A simple repository explorer
+<br><h1 align="center">
+A RESTful API in Node.js
 
 </h1>
 
 <p align="center">
-    <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Nodejs" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+  <img alt="Expressjs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+
+   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
 </p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EduardoPereiraBoares/github-explorer?color=7e3ace">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EduardoPereiraBoares/linkapi-test?color=7e3ace">
 
   <a href="https://www.linkedin.com/in/EduardoPereiraBoares/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Eduardo%20Pereira%20Boares-%23?color=7e3ace">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EduardoPereiraBoares/github-explorer?color=7e3ace">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EduardoPereiraBoares/linkapi-test?color=7e3ace">
 
-  <a href="https://github.com/Group2IntegrationProject/back-end/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EduardoPereiraBoares/github-explorer?color=7e3ace">
+  <a href="https://github.com/EduardoPereiraBoares/linkapi-test/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EduardoPereiraBoares/linkapi-test?color=7e3ace">
   </a>
 
-   <img alt="GitHub" src="https://img.shields.io/github/license/EduardoPereiraBoares/github-explorer?color=7e3ace">
+   <img alt="GitHub" src="https://img.shields.io/github/license/EduardoPereiraBoares/linkapi-test?color=7e3ace">
 </p>
 
 <h5 align="center">
   <a href="#-introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-reference">Reference</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
 </h5><br>
 
@@ -43,7 +44,7 @@ This repository is a test for a job selection process at LinkApi.
 
 **OBJECTIVE**
 
-Build a RESTful API using NodeJS technology.
+Build a RESTful API using Node.js technology.<br>
 
 **REQUIREMENTS**
 
@@ -55,15 +56,13 @@ Build a RESTful API using NodeJS technology.
 
 ● Create a collection in the MongoDB database aggregating the opportunities entered in Bling by day and total value;
 
-● Create endpoint to bring consolidated data from MongoDB collection.
+● Create endpoint to bring consolidated data from MongoDB collection.<br>
 
 **INSTRUCTIONS**
 
 ● Develop and version the project using git;
 
 ● Use GitHub to host the code;
-
-● Send the repository link to people@linkapi..com.br WHAT WILL BE ASSESSED;
 
 ● Number of requirements performed;
 
@@ -90,6 +89,8 @@ Technologies used in development.
 -   [EditorConfig](https://editorconfig.org/)<br><br>
 
 # 💻 Getting started<br>
+
+Import the `Insomnia.json` on Insomnia App.
 
 ### Requirements
 
