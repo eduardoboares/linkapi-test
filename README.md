@@ -40,11 +40,12 @@ A RESTful API in Node.js
 
 # 📖 Introduction<br>
 
-This repository is a test for a job selection process at LinkApi.
+This repository is a test for a job selection process at LinkApi.<br><br>
 
 **OBJECTIVE**
 
-Build a RESTful API using Node.js technology.<br>
+Build a RESTful API using Node.js technology.
+<br><br>
 
 **REQUIREMENTS**
 
@@ -56,7 +57,8 @@ Build a RESTful API using Node.js technology.<br>
 
 ● Create a collection in the MongoDB database aggregating the opportunities entered in Bling by day and total value;
 
-● Create endpoint to bring consolidated data from MongoDB collection.<br>
+● Create endpoint to bring consolidated data from MongoDB collection.
+<br><br>
 
 **INSTRUCTIONS**
 
@@ -72,7 +74,8 @@ Build a RESTful API using Node.js technology.<br>
 
 ● Good RESTful API development practices;
 
-● Performance.<br><br>
+● Performance.
+<br><br>
 
 # 🌐 Technologies<br>
 
