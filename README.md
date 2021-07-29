@@ -28,7 +28,7 @@ A RESTful API in Node.js
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EduardoPereiraBoares/linkapi-test?color=7e3ace">
   </a>
 
-   <img alt="GitHub" src="https://img.shields.io/github/license/EduardoPereiraBoares/linkapi-test?color=7e3ace">
+   <img alt="GitHub" src="https://img.shields.io/github/license/eduardopereiraboares/linkapi-test?color=7e3ace">
 </p>
 
 <h5 align="center">
